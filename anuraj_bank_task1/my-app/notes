@@ -1,0 +1,15 @@
+This UI react part 
+To start, go to 'my-app' in Terminal and do 'npm start';
+
+To start back end go 'my-server' in Terminal and do 'npm start';
+
+And login with 
+
+userNAme:  johndoe
+
+password: password123
+
+##########################
+Incase user deleted all records in my-server/files/users.json just add the below  json data on users.json
+
+
