@@ -12,4 +12,5 @@ password: password123
 ##########################
 Incase user deleted all records in my-server/files/users.json just add the below  json data on users.json
 
+email:anurajindia@gmail.com1
 
